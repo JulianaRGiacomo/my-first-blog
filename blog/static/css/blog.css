@@ -36,6 +36,9 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    border-radius: 100%;
+    border: 2px solid #ffffff;
+    padding: 7px;
 }
 
 .post {
